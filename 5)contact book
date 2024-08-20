@@ -98,7 +98,7 @@ def search():
 
 # Initializing the GUI window
 root = Tk()
-root.title("TechVidvan Contact Book")
+root.title("My Contact Book")
 root.geometry('700x550')
 root.resizable(0, 0)
 
