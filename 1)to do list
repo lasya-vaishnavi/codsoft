@@ -67,7 +67,7 @@ def markcompleted():
 
 # Creating the initial window
 window = tk.Tk()
-window.title("DataFlair To_Do_APP")
+window.title("To_Do_APP")
 
 # Frame widget to hold the Listbox and the Scrollbar
 frame_task = tk.Frame(window)
